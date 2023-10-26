@@ -35,7 +35,7 @@ class _CountriesListState extends State<CountriesList> {
                 controller: searchEditing,
                 decoration:  InputDecoration(
                   suffixIcon:const Icon(Icons.search),
-                  contentPadding: const EdgeInsets.all(12),
+                  contentPadding: const EdgeInsets.all(12.4),
                   hintText: 'Search With Coutries names',
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(70)
